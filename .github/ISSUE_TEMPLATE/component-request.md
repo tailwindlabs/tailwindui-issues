@@ -10,6 +10,10 @@ assignees: ''
 <!--
   Tailwind UI has been built for _you_, so we're always interested in hearing your ideas for new components.
 
+  Before creating a request, be sure to see if someone has already made a similar request in the public Tailwind UI Roadmap in Trello: https://trello.com/b/Nh6e9w8Q/tailwind-ui-roadmap
+  
+  If so, feel free to add a vote to the request so we can gauge interest.
+
   We can't promise that we will design/build every single suggestion, but if we think something would be
   useful to meaningful portion of the community we will absolutely explore it.
 -->
