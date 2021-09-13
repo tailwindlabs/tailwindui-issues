@@ -1,10 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a mistake or bug you've found in a Tailwind UI component.
 title: ''
-labels: bug
 assignees: ''
-
 ---
 
 **What component (if applicable)**
