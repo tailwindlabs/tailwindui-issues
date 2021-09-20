@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Make a suggestion
-    url: 'https://github.com/tailwindlabs/tailwindui-issues/discussions/new?category=ideas&body=%3C!--%0A%20%20Tailwind%20UI%20has%20been%20built%20for%20_you_%2C%20so%20we%27re%20always%20interested%20in%20hearing%20your%20ideas%20for%20new%20components.%0A%0A%20%20Before%20making%20a%20suggestion%2C%20check%20to%20see%20if%20someone%20else%20has%20already%20posted%20about%20it.%20If%20so%2C%20upvote%20the%0A%20%20existing%20post%20to%20help%20us%20gauge%20interest.%0A%0A%20%20We%20can%27t%20promise%20that%20we%20will%20design%2Fbuild%20every%20single%20suggestion%2C%20but%20if%20we%20think%20something%20would%20be%0A%20%20useful%20to%20a%20meaningful%20portion%20of%20the%20community%20we%20will%20absolutely%20explore%20it.%0A--%3E%0A%0A**Description**%0ADescribe%20the%20concept%20you%20have%20in%20mind%2C%20including%20any%20context%20about%20your%20use%20case%20that%20you%20think%20would%20be%20helpful.%0A%0A**Screenshots**%0AProvide%20a%20screenshot%20of%20your%20existing%20solution%20or%20of%20examples%20you%27ve%20seen%20elsewhere%20that%20you%20think%20would%20be%20helpful%20inspiration.'
+    url: https://tailwindui.com/make-a-suggestion
     about: Suggest an idea you'd like to see implemented in a future Tailwind UI update.
