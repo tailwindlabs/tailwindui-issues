@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Make a suggestion
-    url: https://tailwindui.com/make-a-suggestion
-    about: Suggest an idea you'd like to see implemented in a future Tailwind UI update.
+  - name: Get help
+    url: https://tailwindui.com/discord
+    about: Join the Tailwind UI Discord server to discuss what you're trying to build with others in the community.
